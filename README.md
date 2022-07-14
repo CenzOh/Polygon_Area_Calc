@@ -1,3 +1,9 @@
+### Final Result
+
+[Repl.it Link for the final result](https://replit.com/@VincenzoMezzio/boilerplate-polygon-area-calculator#main.py)
+
+![Results](success.PNG)
+
 # Assignment
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
